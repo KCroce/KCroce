@@ -18,7 +18,7 @@ jobs:
           echo "## 📂 GitHub Structure" > tree.md
           echo '```bash' >> tree.md
           echo "." >> tree.md
-          curl -s https://api.github.com/users/SEU_USER/repos | \
+          curl -s https://api.github.com/users/KCroce/repos | \
           jq -r '.[].name' | while read repo; do
             echo "├── $repo" >> tree.md
           done
