@@ -15,7 +15,7 @@
 
 <br>
 
-## 📂 GitHub Resume
+## 📂 GitHub Repos Summary
 
 <!-- TREE_START -->
 ```bash
