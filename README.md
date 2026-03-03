@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hello 👋!
 
-<!--
-**KCroce/KCroce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐦‍⬛ I'm **Croce**
 
-Here are some ideas to get you started:
+🐙 I’m a technology enthusiast focused on infrastructure and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚓ Sharing network protocol studies and insights on this [blog]().
+
+- 📚 Creating simple tutorials focused on Linux and networking.
+
+- 🏳️ Occasionally diving into CTF challenges — take a look at [**this**](https://fuwari-croce.vercel.app/)
+
+![Static Badge](https://img.shields.io/badge/SO-white?style=flat&logo=Debian&logoColor=%23A81D33&label=Debian)
+![Static Badge](https://img.shields.io/badge/DE-white?style=flat&logo=kde&logoColor=%231D99F3&label=KDE%20Plasma)
+
+<br>
+<br>
+---
+
+## 📂 GitHub Structure
+
+<!-- TREE_START -->
+Loading...
+<!-- TREE_END -->
