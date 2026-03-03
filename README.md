@@ -1,9 +1,22 @@
+### Hello 👋!
+
+🐦‍⬛ I'm **Croce**
+
+🐙 I’m a technology enthusiast focused on infrastructure and cybersecurity.
+
+- ⚓ Sharing network protocol studies and insights on this [blog]().
+
+- 📚 Creating simple tutorials focused on Linux and networking.
+
+- 🏳️ Occasionally diving into CTF challenges — take a look at [**this**](https://fuwari-croce.vercel.app/)
+
+![Static Badge](https://img.shields.io/badge/SO-white?style=flat&logo=Debian&logoColor=%23A81D33&label=Debian)
+![Static Badge](https://img.shields.io/badge/DE-white?style=flat&logo=kde&logoColor=%231D99F3&label=KDE%20Plasma)
+
+<br>
+<br>
 ## 📂 GitHub Structure
-```bash
-.
-├── AndroidCinema
-├── Configuracao-basica-de-um-roteador
-├── fuwari-croce
-├── KCroce
-├── MHW-steamtinkerlaunch-Modding
-```
+
+<!-- TREE_START -->
+Loading...
+<!-- TREE_END -->
