@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/DE-white?style=flat&logo=kde&logoColor=%231D99F3&label=KDE%20Plasma)
 
 <br>
-<br>
 
 ## 📂 GitHub Structure
 
@@ -27,5 +26,4 @@
 ├── MHW-steamtinkerlaunch-Modding
 ├── fuwari-croce
 ```
-Loading...
 <!-- TREE_END -->
