@@ -30,7 +30,7 @@
 <!-- TREE_END -->
 
 <br>
-<img align="center" 
+<img align="left" 
      src="https://github.com/user-attachments/assets/100c2e44-08e7-462e-9153-150081f6e91d#gh-dark-mode-only"
 >
 
