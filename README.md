@@ -12,7 +12,7 @@
 
 - 🏳️ Occasionally diving into CTF challenges — take a look at [**this**](https://fuwari-croce.vercel.app/)
 
-![Static Badge](https://img.shields.io/badge/SO-white?style=flat&logo=Debian&logoColor=%23A81D33&label=Debian)
+![Static Badge](https://img.shields.io/badge/OS-white?style=flat&logo=Debian&logoColor=%23A81D33&label=Debian)
 ![Static Badge](https://img.shields.io/badge/DE-white?style=flat&logo=kde&logoColor=%231D99F3&label=KDE%20Plasma)
 <br>
 
@@ -30,14 +30,10 @@
 <!-- TREE_END -->
 
 <br>
-<img align="right" 
+<img align="center" 
      src="https://github.com/user-attachments/assets/100c2e44-08e7-462e-9153-150081f6e91d#gh-dark-mode-only"
-     >
+>
 
-     
-<img align="left" 
-     src="https://github.com/user-attachments/assets/0ecfda78-cf98-4ea9-b12e-cf1dae35e6ae#gh-dark-mode-only"
-width="250">
 <br>
 <br>
 <br>
