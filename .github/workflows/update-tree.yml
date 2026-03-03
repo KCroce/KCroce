@@ -1,0 +1,37 @@
+name: Update Profile Tree
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Repo Tree
+        run: |
+          echo "## 📂 GitHub Structure" > tree.md
+          echo '```bash' >> tree.md
+          echo "." >> tree.md
+          curl -s https://api.github.com/users/SEU_USER/repos | \
+          jq -r '.[].name' | while read repo; do
+            echo "├── $repo" >> tree.md
+          done
+          echo '```' >> tree.md
+
+      - name: Update README
+        run: |
+          cat tree.md > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto update repo tree" || echo "No changes"
+          git push
