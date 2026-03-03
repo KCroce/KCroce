@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<img align="right" 
+<img  
      src="https://github.com/user-attachments/assets/8b4b8f99-6374-4a97-aa0a-9b5fbc5ab34d#gh-dark-mode-only"
      width="400">
  
