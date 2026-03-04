@@ -28,15 +28,6 @@
 ├── MHW-steamtinkerlaunch-Modding
 ├── fuwari-croce
 ```
-```bash
-.
-├── AndroidCinema
-├── Configuracao-basica-de-um-roteador
-├── KCroce
-├── MHW-steamtinkerlaunch-Modding
-├── fuwari-croce
-```
-<!-- TREE_END -->
 
 <br>
 <img align="left" 
