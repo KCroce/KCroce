@@ -3,7 +3,7 @@
 
 🐦‍⬛ I'm **Croce**
 
-🐙 I’m a technology enthusiast focused on infrastructure and cybersecurity.
+🐙 Focused on infrastructure and cybersecurity.
 
 - ⚓ Sharing network protocol studies and insights on this [blog]().
 
