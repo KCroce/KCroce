@@ -32,7 +32,7 @@
 
 <br>
 <img align="left" 
-     src="https://github.com/user-attachments/assets/100c2e44-08e7-462e-9153-150081f6e91d#gh-dark-mode-only"
+     src="https://github.com/user-attachments/assets/100c2e44-08e7-462e-9153-150081f6e91d"
 >
 
 <br>
@@ -43,6 +43,6 @@
 <br>
 
 <img  
-     src="https://github.com/user-attachments/assets/8b4b8f99-6374-4a97-aa0a-9b5fbc5ab34d#gh-dark-mode-only"
+     src="https://github.com/user-attachments/assets/8b4b8f99-6374-4a97-aa0a-9b5fbc5ab34d"
      width="400">
  
