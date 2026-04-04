@@ -31,9 +31,8 @@
 ```
 
 <br>
-<img align="left" 
-     src="https://github.com/user-attachments/assets/100c2e44-08e7-462e-9153-150081f6e91d"
->
+
+<img align="left" src="https://raw.githubusercontent.com/KCroce/KCroce/main/images/deb.gif">
 
 <br>
 <br>
@@ -43,6 +42,6 @@
 <br>
 
 <img  
-     src="https://github.com/user-attachments/assets/8b4b8f99-6374-4a97-aa0a-9b5fbc5ab34d"
+     src="https://raw.githubusercontent.com/KCroce/KCroce/main/images/altdeb.gif"
      width="400">
  
