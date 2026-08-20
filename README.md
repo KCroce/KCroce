@@ -25,7 +25,6 @@
 ├── Cisco-Packet-TracerV9.0.0-Project
 ├── Configuracao-basica-de-um-roteador
 ├── KCroce
-├── MHW-steamtinkerlaunch-Modding
 ├── SOC-Lab-01
 ├── fuwari-croce
 ```
